@@ -111,7 +111,8 @@ Na aplicação, é possível informar:
 
 A aplicação processa os dados com o pré-processador salvo e apresenta a classificação estimada pelo modelo, juntamente com as probabilidades de cada classe.
 
-**Acesso à aplicação:** INSERIR URL PÚBLICA APÓS A PUBLICAÇÃO.
+**Acesso à aplicação:** Local URL: http://localhost:8502
+                        Network URL: http://172.16.1.208:8502
 
 ## Estrutura do repositório
 
